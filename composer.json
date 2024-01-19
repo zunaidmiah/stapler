@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zunaid\\Stapler\\": "src/"
+            "Codesleeve\\Stapler\\": "src/"
         }
     },
     "minimum-stability": "dev"
